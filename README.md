@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **springboot, nextjs ,AGI**
 
-- 👯 I’m looking to collaborate on **Tic Tac Toe**
+- 👯 I’m looking to collaborate on **Full Stack devloper**
 
-- 🤝 I’m looking for help with **Portfolio**
+- 🤝 I’m looking for help with **AI**
 
 - 👨‍💻 All of my projects are available at [https://vishal-portfolio-chi.vercel.app/](https://vishal-portfolio-chi.vercel.app/)
 
