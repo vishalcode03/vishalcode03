@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 👨‍💻 All of my projects are available at [https://vishal-portfolio-chi.vercel.app/](https://vishal-portfolio-chi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vishal-portfolio-chi.vercel.app/](https://vishal-portfolio-chi.vercel.app/](https://newportfolio-six-beige.vercel.app/))
 
 - 💬 Ask me about **Java ,Javascripts, My Sql**
 
