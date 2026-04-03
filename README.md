@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm vishal chaturvedi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Real Time Chat App**
+- 🔭 I’m currently working on **CrackIt – AI-Based Interview Preparation System**
 
-- 🌱 I’m currently learning **springboot, nextjs ,AGI**
+- 🌱 I’m currently learning **springboot, Reactjs ,AGI**
 
 - 👯 I’m looking to collaborate on **Full Stack devloper**
 
