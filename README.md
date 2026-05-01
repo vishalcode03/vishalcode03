@@ -56,7 +56,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalcode03&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalcode03&layout=compact&theme=radical" />
+</p>
 </p>
 
 ---
