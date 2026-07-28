@@ -161,27 +161,7 @@ Scalable Web Solutions:
 </tr>
 </table>
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalcode03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalcode03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalcode03&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalcode03&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
